@@ -28,4 +28,16 @@
 |  |
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/yogesh-selvam/leet-log/tree/master/3548-equal-sum-grid-partition-ii) |
+## Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yogesh-selvam/leet-log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yogesh-selvam/leet-log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yogesh-selvam/leet-log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
