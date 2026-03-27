@@ -42,4 +42,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yogesh-selvam/leet-log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/yogesh-selvam/leet-log/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
