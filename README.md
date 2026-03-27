@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yogesh-selvam/leet-log/tree/master/0001-two-sum) |
 | [2906-construct-product-matrix](https://github.com/yogesh-selvam/leet-log/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/yogesh-selvam/leet-log/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/yogesh-selvam/leet-log/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -27,6 +28,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yogesh-selvam/leet-log/tree/master/0001-two-sum) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/yogesh-selvam/leet-log/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Tree
 |  |
