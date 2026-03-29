@@ -54,6 +54,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/yogesh-selvam/leet-log/tree/master/0242-valid-anagram) |
 | [2573-find-the-string-with-lcp](https://github.com/yogesh-selvam/leet-log/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/yogesh-selvam/leet-log/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 ## Sorting
 |  |
 | ------- |
