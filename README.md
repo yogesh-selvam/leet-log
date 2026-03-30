@@ -32,6 +32,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yogesh-selvam/leet-log/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/yogesh-selvam/leet-log/tree/master/0242-valid-anagram) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/yogesh-selvam/leet-log/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/yogesh-selvam/leet-log/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Tree
 |  |
@@ -55,10 +56,12 @@
 | [0242-valid-anagram](https://github.com/yogesh-selvam/leet-log/tree/master/0242-valid-anagram) |
 | [2573-find-the-string-with-lcp](https://github.com/yogesh-selvam/leet-log/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/yogesh-selvam/leet-log/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/yogesh-selvam/leet-log/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/yogesh-selvam/leet-log/tree/master/0242-valid-anagram) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/yogesh-selvam/leet-log/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
