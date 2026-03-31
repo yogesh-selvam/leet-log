@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yogesh-selvam/leet-log/tree/master/0001-two-sum) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/yogesh-selvam/leet-log/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/yogesh-selvam/leet-log/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/yogesh-selvam/leet-log/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/yogesh-selvam/leet-log/tree/master/3546-equal-sum-grid-partition-i) |
@@ -12,6 +13,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/yogesh-selvam/leet-log/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/yogesh-selvam/leet-log/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/yogesh-selvam/leet-log/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/yogesh-selvam/leet-log/tree/master/3546-equal-sum-grid-partition-i) |
